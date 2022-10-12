@@ -1,0 +1,26 @@
+.header {
+  background: #27293d;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .cart-count {
+  width: 18px;
+  height: 18px;
+  display: flex;
+  font-size: 12px;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff398f;
+  border-radius: 50%;
+  position: absolute;
+  top: 32px;
+  right: 2px;
+}/*# sourceMappingURL=Header.css.map */

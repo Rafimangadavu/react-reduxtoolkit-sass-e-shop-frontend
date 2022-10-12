@@ -1,0 +1,18 @@
+[
+    {
+        "id":0,
+        "image": "https://www.91-img.com/pictures/143993-v4-apple-iphone-14-mobile-phone-large-1.jpg",
+        "title": "iphone"
+    },
+    {
+        "id":1,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRF3m05bqQgnn9WanARd08MfcSbqmYtuswvg&usqp=CAU",
+        "title": "Lenovo"
+    },
+    {
+        "id":2,
+        "image": "https://media.viveks.com/media/catalog/product/cache/88ca3c9c4ebc2244cd2bf601271fd1f0/m/o/mob_e_2.png",
+        "title":"samsung"
+    }
+    
+]

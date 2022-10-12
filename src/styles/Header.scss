@@ -1,0 +1,38 @@
+@import "./styleVariables/Variables.scss";
+
+.header{
+    background: #27293d;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .container{
+        display: flex;;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+
+    
+}
+
+.header .cart-count{
+    width: 18px;
+    height: 18px;
+    display: flex;
+    font-size: 12px;
+    justify-content: center;
+    align-items: center;
+    background-color: $btnColor;;
+    border-radius: 50%;
+    position: absolute;
+    top: 32px;
+    right: 2px;
+}
+
+
+
+
+
+
