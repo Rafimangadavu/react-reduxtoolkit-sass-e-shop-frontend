@@ -1,17 +1,17 @@
 [
     {
         "id":0,
-        "image": "https://www.91-img.com/pictures/143993-v4-apple-iphone-14-mobile-phone-large-1.jpg",
+        "image": "https://images.pexels.com/photos/8368973/pexels-photo-8368973.jpeg?auto=compress&cs=tinysrgb&w=600",
         "title": "iphone"
     },
     {
         "id":1,
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRF3m05bqQgnn9WanARd08MfcSbqmYtuswvg&usqp=CAU",
+        "image": "https://images.pexels.com/photos/7947962/pexels-photo-7947962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "title": "Lenovo"
     },
     {
         "id":2,
-        "image": "https://media.viveks.com/media/catalog/product/cache/88ca3c9c4ebc2244cd2bf601271fd1f0/m/o/mob_e_2.png",
+        "image": "https://images.pexels.com/photos/9391894/pexels-photo-9391894.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "title":"samsung"
     }
     
