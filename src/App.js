@@ -13,18 +13,24 @@ function App() {
   const dispatch = useDispatch();
   const counterRef = useRef(1);
 
+  const fetchUser = async (id)=>{
+    const response = await axios.get(`https://jsonplaceholder.typicode.com/todos/${id}`);
+    dispatch(updateUser(response.data));
+}
+
   useEffect(() => {
+    
     fetchUser(counterRef.current);
+      // eslint-disable-next-line react-hooks/exhaustive-deps
   },[]);
+
+  
 
   const loadMoreUsers = () =>{
     fetchUser(++counterRef.current);
   };
 
- const fetchUser = async (id)=>{
-    const response = await axios.get(`https://jsonplaceholder.typicode.com/todos/${id}`);
-    dispatch(updateUser(response.data));
-}
+ 
 
 
   return (
